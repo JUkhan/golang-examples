@@ -1,5 +1,7 @@
 package main
-import "github.com/JUkhan/golang-examples/quiz"
+
+import "quiz/cli"
+
 func main() {
-	quiz.RunQuiz()
+	cli.RunQuiz()
 }

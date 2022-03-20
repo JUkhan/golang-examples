@@ -1,3 +1,3 @@
-module github.com/JUkhan/golang-examples/quiz
+module quiz
 
 go 1.18
