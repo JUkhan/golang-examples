@@ -1,0 +1,5 @@
+package urlshort
+
+func YAMLHandler()  {
+	
+}
